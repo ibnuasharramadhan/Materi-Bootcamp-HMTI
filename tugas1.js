@@ -21,7 +21,7 @@ var motor = {
  warna : [" Silver, Hitam, Merah"]
 }; 
 console.log("nama pelanggan :", motor.merk);
-console.log("nama motor :", motor.name);
+console.log("nama Motor :", motor.name);
 console.log("nomor polisi :", motor.nopol);
 console.log("warna motor :", motor.[2]);
 
