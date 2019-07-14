@@ -24,11 +24,11 @@ if (1 != 1){
 }else if (1 > 1) {
     console.log("[IF,ELSE,IF,ELSE] tapi 1 lebih dari 0");
 }else {
-	console.log("[IF,ELSE,IF,ELSE] Ambil semua bro!!");
+	console.log("[IF,ELSE,IF,ELSE] Ambil semua aja bro!!");
 }
 
 if(1 < 0){
-	console.log("Ternyata benar");
+	console.log("Ternyata salah");
 	if (2 > 0){
 		console.log("2 lebih dari 1");
 	}
