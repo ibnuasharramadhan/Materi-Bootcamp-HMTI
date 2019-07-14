@@ -1,3 +1,5 @@
+// Ini Komentar
+
 //deklarasi variable name
 var name;
 
